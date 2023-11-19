@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "In the front-end realm, I mastered HTML and CSS, and I'm currently diving into JavaScript for interactivity. Plus, my solid grasp of React lets me create user-friendly interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "When it comes to UI/UX, I craft seamless designs using Figma, ensuring a smooth user journey. Armed with a strong grasp of color theory, I curate visually appealing experiences. Aesthetics and usability are at the forefront of my design approach."
+    },
+    {
+      "id": "3",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "In the backend arena, I'm currently in learning mode, starting off with JavaScript and Node.js. Excited to venture into the world of server-side logic and database management to complement my front-end expertise."
+    }
+  ],
+
+
+  "portfolio": [
+    {
+        "id": "1",
+        "src": "./img/weather.png",
+        "title": "MyPortfolio",
+        "description": "MyWeatherApp: Your passport to instant global weather updates, served with a side of OpenWeather API magic! ☀️🌍🌧️",
+        "link": "View In Github"
+      },
+    {
+        "id": "2",
+        "src": "./img/port.png",
+        "title": "MyPortfolio",
+        "description": "My portfolio: where skills meet creativity, and experience tells a story. Let's bring ideas to life! 🌟",
+        "link": "View In Github"
+      }
+  ]
+}
