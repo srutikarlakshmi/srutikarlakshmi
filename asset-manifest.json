@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/srutikarlakshmi/static/css/main.04e7f5be.css",
+    "main.js": "/srutikarlakshmi/static/js/main.1bce6cd5.js",
+    "index.html": "/srutikarlakshmi/index.html",
+    "main.04e7f5be.css.map": "/srutikarlakshmi/static/css/main.04e7f5be.css.map",
+    "main.1bce6cd5.js.map": "/srutikarlakshmi/static/js/main.1bce6cd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e7f5be.css",
+    "static/js/main.1bce6cd5.js"
+  ]
+}
