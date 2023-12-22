@@ -13,14 +13,14 @@ I thrive on bringing digital ideas to life! Whether it's the frontend magic user
 - **My Portfolio:** Where skills meet creativity, and experience tells a story. Let's bring ideas to life! 🌟
 
 📄 **Resume Highlights**
-- **A Wedding Planner Forever and Always (2023):** Collaborative project enhancing CSS skills in web design.
-- **Personal Portfolio (2023):** Independently developed dynamic and responsive React-based online resume.
-- **Live Weather App (MyWeatherApp):** Seamlessly integrating OpenWeather API for delightful weather tracking.
+- [**A Wedding Planner Forever and Always (2023):**](https://github.com/srutikarlakshmi/wedding-planner) Collaborative project enhancing CSS skills in web design.
+- [**Personal Portfolio (2023):**](https://capable-sawine-43cbd0.netlify.app/) Independently developed dynamic and responsive React-based online resume.
+- [**Live Weather App (MyWeatherApp):**]() Seamlessly integrating OpenWeather API for delightful weather tracking.
 
 🎓 **Education & Certifications**
 - **Computer Engineering Student:** 8.17 CGPA
 - **Certifications:**
-  - [Basics of Machine Learning](Link)
-  - [Interactive Dashboard](Link)
+  - [Basics of Machine Learning](https://drive.google.com/file/d/12dB6bsXLMysC_QdwDqOLuYbaGgIRpCB3/view)
+  - [Interactive Dashboard](https://drive.google.com/file/d/12kQhMetkd7FlCORwJQgB0W1uUV87Q0ug/view)
 
 Let's connect and collaborate! 💬
